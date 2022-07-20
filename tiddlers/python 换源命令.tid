@@ -1,0 +1,9 @@
+created: 20220720115710523
+creator: everr
+modified: 20220720115850248
+modifier: everr
+tags: program
+title: python 换源命令
+type: text/vnd.tiddlywiki
+
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
